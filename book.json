@@ -11,8 +11,8 @@
         "todo",
         "anchorjs",
         "collapsible-chapters",
-        "sidebar-footer@git+https://github.com/JustPilz/gitbook-plugin-sidebar-footer.git",
-        "-lunr", "-search", "search-plus-mod@git+https://github.com/JustPilz/gitbook-plugin-search-plus-mod.git"
+        "sidebar-footer",
+        "-lunr", "-search", "search-plus-mod"
     ],
     "pluginsConfig": {
         "hide-element": {
