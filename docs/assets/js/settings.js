@@ -24,6 +24,21 @@ require(['gitbook'], function(gitbook, $) {
         document.getElementsByClassName("gitbook-link").remove();
 
 
+        var COLOR_THEMES = [
+            {
+                config: 'light',
+                text: 'Light',
+                id: 0
+            },
+            {
+                config: 'dark',
+                text: 'Dark',
+                id: 2
+            }
+        ];
+
+        gitbook.fontsettings.setThemes(COLOR_THEMES);
+
     });
 });
 
