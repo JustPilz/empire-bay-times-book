@@ -8,15 +8,14 @@
 
 **Внимание!** Путь установки клиента НЕ должен содержать кириллических \(русских\) символов. Только латинские \(английские\) символы. Это важно!
 
-![](/assets/imageproxy3G1XQNHR.jpg)
+![imageproxy3G1XQNHR11e69.jpg](http://static2.keep4u.ru/2017/05/27/imageproxy3G1XQNHR11e69.jpg)
 
 4\) Дальше выбираем папку, в которую мы установили саму игру в пункте 1.
-
-![](/assets/imageproxyR3QVM776.jpg)  
+![imageproxyR3QVM7766b9c1.jpg](http://static2.keep4u.ru/2017/05/27/imageproxyR3QVM7766b9c1.jpg)  
 5\) Принимаем соглашение и ждём окончания установки, после нажимаем на кнопку Close.   
 На рабочем столе у вас появится ярлык с запуском Mafia II Online.
 
-![](/assets/imageproxy.jpg)
+![imageproxya3eb5.jpg](http://static1.keep4u.ru/2017/05/27/imageproxya3eb5.jpg)
 
 **Обратите внимание!** Если у Вас уже установлена игра, например из Steam, то Вам необходимо скачать и переместить С ЗАМЕНОЙ содержимое архива pc.zip в папку pc, которая находится в папке, куда Вы устанавливали игру. Например: _C:\Games\Mafia 2\pc_  
 Ссылка на скачивание архива pc.zip: [https://yadi.sk/d/grkxqOiq3FLzPY](https://yadi.sk/d/grkxqOiq3FLzPY)
