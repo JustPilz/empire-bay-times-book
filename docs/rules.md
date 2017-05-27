@@ -18,7 +18,7 @@
 
 Администрация оставляет за собой право изменять и дополнять правила в любое время.
 
-{% include "Instructions.md" %}
+{% include "instructions.md" %}
 
 {{ book.hello }}
 
