@@ -1,21 +1,30 @@
 # Summary
 
-## Название
+## Общая информация
 
-* [Об этом сайте](README.md)
-* [Инструкции](Instructions.md)
-   * [Установка мультиплеера](Instructions/ustanovkaMP.md)
-   * [Часто возникающие вопросы](instructions/voprosy.md)
-* [Правила](pravila.md)
-  * [Проверка под-пункта](pravila/proverka-pod-punkta.md)
-* [Проверка](proverka.md)
-  * [провека 2](proverka/proveka-2.md)
+* [О проекте](README.md)
+* [Новости](news.md)
+   * [Анонсы](news/announces.md)
+   * [Новости сервера](news/servernews.md)
+* [Инструкции](instructions.md)
+   * [Установка мультиплеера](instructions/install.md)
+   * [Часто возникающие вопросы](instructions/questions.md)
+* [Правила](rules.md)
+  * [Правила игрового сервера](rules/serverrules.md)
+  * [Правила оформления личных дел](rules/biorules.md)
+  * [Правила создания фракции](rules/fractionrules.md)
 
+## Игровой раздел
 
-## Правила
-
-* [Правила игрового сервера](pravila/pravila-igrovogo-servera.md)
-* [Правила оформления личных дел](pravila/pravila-oformleniya-lichnih-del.md)
-
-
-
+* [RolePlay](game/roleplay.md)
+  * [Основы РП](game/roleplay/rpbase.md)
+  * [РП-ситуации](game/roleplay/rpbase.md)
+  * [Личные дела](game/roleplay/persons.md)
+* [Государственные организации](game/gov.md)
+  * [Правительство](game/gov/government.md)
+  * [Полицейский департамент](game/gov/police.md)
+  * [Госпиталь](game/gov/hospital.md)
+* [Частные организации](game/ungov.md)
+  * [Freemans](game/ungov/freemans.md)
+  * [Bombers](game/ungov/bombers.md)
+  * [Hell Boys](game/ungov/hellboys.md)
