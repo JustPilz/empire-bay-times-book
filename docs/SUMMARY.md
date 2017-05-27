@@ -9,7 +9,8 @@
 * [Проверка](proverka.md)
   * [провека 2](proverka/proveka-2.md)
 ## Инструкции
-* [Инструкция по установке мультиплеера](instructions/instr.ustanovkaMP.md)
+* [Инструкция по установке мультиплеера](Instructions/instr.ustanovkaMP.md)
+* [Часто возникающие вопросы](Instructions/voprosy.md)
 
 ## Правила
 
