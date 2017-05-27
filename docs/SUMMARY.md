@@ -8,6 +8,8 @@
   * [Проверка под-пункта](pravila/proverka-pod-punkta.md)
 * [Проверка](proverka.md)
   * [провека 2](proverka/proveka-2.md)
+## Инструкции
+* [Инструкция по установке мультиплеера](instructions/instr.ustanovkaMP.md)
 
 ## Правила
 
