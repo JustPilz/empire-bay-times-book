@@ -20,5 +20,5 @@
 ![imageproxya3eb5.jpg](http://static1.keep4u.ru/2017/05/27/imageproxya3eb5.jpg)
 
 **Обратите внимание!** Если у Вас уже установлена игра, например из Steam, то Вам необходимо скачать и переместить С ЗАМЕНОЙ содержимое архива pc.zip в папку pc, которая находится в папке, куда Вы устанавливали игру. Например: _C:\Games\Mafia 2\pc_  
-Ссылка на скачивание архива pc.zip: [https://yadi.sk/d/grkxqOiq3FLzPY](https://yadi.sk/d/grkxqOiq3FLzPY)
+Ссылка на скачивание архива pc.zip: [https://yadi.sk/d/K3tl7ryA34EYun](https://yadi.sk/d/K3tl7ryA34EYun)
 
