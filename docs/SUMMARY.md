@@ -3,8 +3,8 @@
 ## Название
 
 * [Об этом сайте](README.md)
-* [Инструкции](instructions.md)
-   * [Установка мультиплеера](instructions/instr.ustanovkaMP.md)
+* [Инструкции](Instructions.md)
+   * [Установка мультиплеера](Instructions/ustanovkaMP.md)
    * [Часто возникающие вопросы](instructions/voprosy.md)
 * [Правила](pravila.md)
   * [Проверка под-пункта](pravila/proverka-pod-punkta.md)
