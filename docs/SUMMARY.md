@@ -4,6 +4,8 @@
 
 * [Об этом сайте](README.md)
 * [Инструкции](Instructions.md)
+   * [Инструкция по установке мультиплеера](Instructions/instr.ustanovkaMP.md)
+   * [Часто возникающие вопросы](Instructions/voprosy.md)
 * [Правила](pravila.md)
   * [Проверка под-пункта](pravila/proverka-pod-punkta.md)
 * [Проверка](proverka.md)
