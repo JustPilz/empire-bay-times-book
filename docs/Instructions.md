@@ -1,4 +1,4 @@
-# Инструкции
+### Инструкции
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one
-
+* [Инструкция по установке мультиплеера](#game-rules)
+* [Часто возникающие вопросы](#personal-file-rules) 
