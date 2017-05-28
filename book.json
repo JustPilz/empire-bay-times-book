@@ -12,6 +12,7 @@
         "anchorjs",
         "collapsible-chapters",
         "sidebar-footer",
+        "toggle-chapters",
         "-lunr", "-search", "search-plus-mod"
     ],
     "pluginsConfig": {
