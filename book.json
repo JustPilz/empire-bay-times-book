@@ -19,9 +19,7 @@
         "-lunr", "-search", "search-plus-mod"
     ],
     "pluginsConfig": {
-        "hide-element": {
-            "elements": [".gitbook-link", ".summary li:nth-child(1)", ".summary li:nth-child(2)"]
-        },
+
         "addcssjs":
             {
             "js": ["assets/js/settings.js"],
