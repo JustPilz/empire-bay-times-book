@@ -9,7 +9,7 @@ NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
     }
 }
 
-require(['gitbook'], function(gitbook, $) {
+require(['gitbook'], function(gitbook) {
 
     gitbook.events.bind('page.change', function() {
 
@@ -22,9 +22,18 @@ require(['gitbook'], function(gitbook, $) {
         x[0].style.display = "none";
         */
         //document.getElementsByClassName("gitbook-link").remove();
-        document.querySelector(".summary li:last-child").remove();
-        document.querySelector(".summary li:nth-child(2)").remove();
-        document.querySelector(".summary li:nth-child(1)").remove();
+        //document.querySelector(".summary li:nth-child(2)").remove();
+        //document.querySelector(".summary li:nth-child(1)").remove();
+
+        var cl = document.querySelector(".custom-link");
+
+        if(cl) {
+            cl.href = "https://mafia2online.ru/";
+            cl.removeAttribute('target');
+        }
+
+        document.getElementsByClassName("summary")[0].lastElementChild.remove();
+        document.getElementsByClassName("summary")[0].lastElementChild.remove();
 
         var COLOR_THEMES = [
             {
