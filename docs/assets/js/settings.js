@@ -21,8 +21,10 @@ require(['gitbook'], function(gitbook, $) {
         var x = document.getElementsByClassName("gitbook-link");
         x[0].style.display = "none";
         */
-        document.getElementsByClassName("gitbook-link").remove();
-
+        //document.getElementsByClassName("gitbook-link").remove();
+        document.querySelector(".summary li:last-child").remove();
+        document.querySelector(".summary li:nth-child(2)").remove();
+        document.querySelector(".summary li:nth-child(1)").remove();
 
         var COLOR_THEMES = [
             {
