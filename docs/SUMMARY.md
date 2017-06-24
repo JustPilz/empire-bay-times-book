@@ -9,7 +9,6 @@
   * [Часто возникающие вопросы](instructions/questions.md)
   * [Регистрация аккаунта](instructions/new-account.md)
   * [Создание персонажа](instructions/new-character.md)
-  * [Загрузка скриншотов](instructions/upload-screens.md)
 
 * [Правила](rules.md)
   * [Правила игрового сервера](rules.md#server)
