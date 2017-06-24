@@ -5,6 +5,7 @@
         "anchor-translit",
         "custom-favicon",
         "splitter",
+        "fancybox",
         "hints",
         "jp-hints@git+https://github.com/JustPilz/gitbook-plugin-jp-hints.git",
         "underline",
@@ -23,7 +24,8 @@
         "addcssjs":
             {
             "js": ["assets/js/settings.js"],
-            "css": ["assets/css/styles.css"]
+            "css": [ "assets/css/styles.css",
+                     "assets/fancybox/jquery.fancybox1.css"]
         },
         "anchorjs": {
             "icon": "#",
@@ -45,6 +47,16 @@
             "header": 1,
             "notoc": true,
             "translit": false
+        },
+        "fancybox": {
+            "helpers": {
+                "title" : {
+                "type" : "inside"
+                },
+                "buttons": {
+                    "position" : "bottom"
+                }
+            }
         },
         "favicon": "assets/images/favicon.ico"
     },
