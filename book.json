@@ -23,7 +23,9 @@
 
         "addcssjs":
             {
-            "js": ["assets/js/settings.js"],
+            "js": ["assets/js/settings.js",
+                   "assets/js/custom.js",
+                   "assets/js/md5.min.js"],
             "css": [ "assets/css/styles.css",
                      "assets/fancybox/jquery.fancybox1.css"]
         },

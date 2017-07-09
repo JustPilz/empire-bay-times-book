@@ -1,5 +1,4 @@
 # Empire Bay Times
-<!-- notoc -->
 
 #### Довольно молодой сервер Мafia 2 Online.
 
