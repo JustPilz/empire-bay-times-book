@@ -6,7 +6,7 @@
 
 ![Проблема №1](https://s4.wampi.ru/2017/06/24/trouble1.png)
 
-**Решение:** Убедитесь, что правильно выбрали папку с игрой. Также попробуйте переименовать папку с игрой на «Mafia2» \(без пробела и кавычек\). Пути к игре и мультиплееру НЕ должны содержать кириллические \(русские\) символы.
+**Решение:** Убедитесь, что правильно выбрали папку с игрой. Также попробуйте переименовать папку с игрой на «Mafia2» \(без пробела и кавычек\). Пути к игре и мультиплееру НЕ должны содержать пробелов и кириллических \(русских\) символов.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ![Проблема №2](https://s4.wampi.ru/2017/06/24/trouble2.png)
 
-**Решение:** У вас неверно указан путь к папке с игрой. Переустановите мультиплеер, указав при установке правильный путь.Пути к игре и мультиплееру НЕ должны содержать кириллические \(русские\) символы.
+**Решение:** У вас неверно указан путь к папке с игрой. Переустановите мультиплеер, указав при установке правильный путь. Пути к игре и мультиплееру НЕ должны содержать пробелов и кириллических \(русских\) символов.
 
 ---
 
@@ -30,7 +30,7 @@
 
 **Проблема №4:** В окне мультиплеера не отображаются кнопки QC, CONNECT, REFRESH, SETTINGS и QUIT.
 
-**Решение:** Пути к игре и мультиплееру НЕ должны содержать кириллические \(русские\) символы.   
+**Решение:** Пути к игре и мультиплееру НЕ должны содержать пробелов и кириллических \(русских\) символов.   
  Правильный вариант, например: _D:\Games\Mafia2_
 
 ---
@@ -43,13 +43,13 @@
 Затем, скачайте следующие файлы и установите именно в такой последовательности:
 
 > [1\) Microsoft Visual C++ 2005 Redistributable Package ](https://www.microsoft.com/en-us/download/details.aspx?id=3387)  
-> [2\) Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/ru-ru/download/details.aspx?id=29 )  
-> [3\) Microsoft Visual C++ 2010 Redistributable Package](https://www.microsoft.com/ru-ru/download/details.aspx?id=5555 )  
+> [2\) Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/ru-ru/download/details.aspx?id=29)  
+> [3\) Microsoft Visual C++ 2010 Redistributable Package](https://www.microsoft.com/ru-ru/download/details.aspx?id=5555)  
 > [4\) Распространяемый пакет Visual C++ для Visual Studio 2012](https://www.microsoft.com/ru-ru/download/details.aspx?id=30679)  
 > [5\) Распространяемые пакеты Visual C++ для Visual Studio 2013](https://www.microsoft.com/ru-RU/download/details.aspx?id=40784)  
-> [6\) Распространяемый пакет Visual C++ для Visual Studio 2015 ](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145 )  
-> [7\) Microsoft .NET Framework 4.6](https://www.microsoft.com/ru-ru/download/details.aspx?id=48130 )  
-> [8\) PhysX](https://www.nvidia.ru/object/physx-9.15.0428-driver-ru.html )
+> [6\) Распространяемый пакет Visual C++ для Visual Studio 2015 ](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145)  
+> [7\) Microsoft .NET Framework 4.6](https://www.microsoft.com/ru-ru/download/details.aspx?id=48130)  
+> [8\) PhysX](http://www.nvidia.ru/object/physx-9.16.0318-driver-ru.html)
 
 ---
 
@@ -59,7 +59,7 @@
 
 **Решение:** Попробуйте по порядку, возможно какое-то из решений поможет именно в вашем случае \(выполнять все пункты не обязательно\):
 
-1\) Убедитесь, что пути к игре и мультиплееру НЕ содержат кириллических \(русских\) символов.  
+1\) Убедитесь, что пути к игре и мультиплееру НЕ содержат пробелов и кириллических \(русских\) символов.  
 2\) Попробуйте запустить клиент от имени администратора \(нажмите на GIF-анимацию\):
 
 ![Проблема №6-1](https://s4.wampi.ru/2017/06/24/trouble6-1.gif)
