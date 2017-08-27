@@ -22,6 +22,8 @@
 
 * [RolePlay](game/roleplay.md)
   * [Основы РП](game/roleplay/rpbase.md)
+  * [РП ситуации](game/roleplay/rpsituations.md)
+    * [Новые люди](game/roleplay/all/1-new-people.md)
 
 * [Государственные организации](game/gov.md)
   * [Правительство](game/gov/government.md)
