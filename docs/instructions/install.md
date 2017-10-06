@@ -1,5 +1,5 @@
 # Установка мультиплеера
-1\. Скачиваем игру Mafia II и устанавливаем её. Ссылка на торрент-файл: [Mafia\_II.torrent](https://yadi.sk/d/B_Yhfp653JaKRN)
+1\. Скачиваем игру Mafia II и устанавливаем её. Ссылка на торрент-файл: [Mafia\_II.torrent](https://yadi.sk/d/_DYUsa-a3NY2Dt)
 
 <!-- -->
 > [warning]
@@ -12,7 +12,7 @@
 > Читайте начиная с пункта 2 и до самого конца этой темы.
 
 
-2\. Скачиваем клиент мультиплеера: [https://yadi.sk/d/xyzIncqB34EaGj](https://yadi.sk/d/xyzIncqB34EaGj)  
+2\. Скачиваем клиент мультиплеера: [https://yadi.sk/d/3wtBonqo3NY2Do](https://yadi.sk/d/3wtBonqo3NY2Do)  
 
 3\. Запускаем скачанный клиент мультиплеера, выбираем папку куда он будет установлен.
 
@@ -33,6 +33,6 @@
 
 > [danger] Обратите внимание! Это, блин, важно!
 > Если у Вас уже установлена игра, например из Steam, то Вам необходимо: 
-1. Скачать архив pc.zip: [https://yadi.sk/d/K3tl7ryA34EYun](https://yadi.sk/d/K3tl7ryA34EYun)  
+1. Скачать архив pc.zip: [https://yadi.sk/d/hcEu8kaT3NY2Dy](https://yadi.sk/d/hcEu8kaT3NY2Dy)  
 2. Переместить его содержимое С ЗАМЕНОЙ в папку pc, которая находится там, куда Вы устанавливали игру.
 Например: _C:\Games\Mafia 2\pc_  
