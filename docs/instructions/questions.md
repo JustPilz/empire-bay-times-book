@@ -24,7 +24,7 @@
 
 **Решение:** Скачайте архив pc.zip и переместите С ЗАМЕНОЙ его содержимое в папку pc, которая находится в папке, куда Вы устанавливали игру.  
 Например: _D:\Games\Mafia2\pc_  
-Ссылка на скачивание архива pc.zip: [http://download.mafia2-online.com/patch/pc.zip](http://download.mafia2-online.com/patch/pc.zip)
+Ссылка на скачивание архива pc.zip: [https://yadi.sk/d/hcEu8kaT3NY2Dy](https://yadi.sk/d/hcEu8kaT3NY2Dy)
 
 ---
 
