@@ -13,8 +13,8 @@
 
 
 2\. Скачиваем клиент мультиплеера:  
-Ссылка 1: [https://drive.google.com/file/d/1ywUcViHqIgRlAmoCyQYUoW3OKtacDNxc](Google Drive)  
-Ссылка 2: [https://yadi.sk/d/3wtBonqo3NY2Do](Яндекс.Диск)  
+Ссылка 1: [Google Drive](https://drive.google.com/file/d/1ywUcViHqIgRlAmoCyQYUoW3OKtacDNxc)  
+Ссылка 2: [Яндекс.Диск](https://yadi.sk/d/3wtBonqo3NY2Do)  
 
 
 3\. Запускаем скачанный клиент мультиплеера, выбираем папку куда он будет установлен.
@@ -37,7 +37,7 @@
 > [danger] Обратите внимание! Это, блин, важно!
 > Если у Вас уже установлена игра, например из Steam, то Вам необходимо: 
 1. Скачать архив pc.zip:  
-Ссылка 1: [https://drive.google.com/file/d/17SIfaM0GXNLbCiCw5sRmTmSJ5FPpuxE6](Google Drive)  
-Ссылка 2: [https://yadi.sk/d/hcEu8kaT3NY2Dy](Яндекс.Диск)  
+Ссылка 1: [Google Drive](https://drive.google.com/file/d/17SIfaM0GXNLbCiCw5sRmTmSJ5FPpuxE6)  
+Ссылка 2: [Яндекс.Диск](https://yadi.sk/d/hcEu8kaT3NY2Dy)  
 2. Переместить его содержимое С ЗАМЕНОЙ в папку pc, которая находится там, куда Вы устанавливали игру.
 Например: _C:\Games\Mafia 2\pc_  
