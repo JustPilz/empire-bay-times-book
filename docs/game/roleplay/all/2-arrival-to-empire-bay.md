@@ -1,7 +1,7 @@
 ## Прибытие в Эмпайр-Бэй
 
 Перед прочтением советую включить музыку: Jesse Harlin - Only One Thing We're Good At.
-
+<iframe width="70" height="35" src="https://www.youtube.com/embed/VCWg_X80H7c?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ![NACALO.jpg](https://s2.wampi.ru/2017/12/14/NACALO.jpg)
 

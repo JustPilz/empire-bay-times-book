@@ -24,7 +24,7 @@
   * [Основы РП](game/roleplay/rpbase.md)
   * [РП ситуации](game/roleplay/rpsituations.md)
     * [Новые люди](game/roleplay/all/1-new-people.md)
-
+    * [Прибытие в Эмпайр-Бэй](game/roleplay/all/2-arrival-to-empire-bay.md)
 * [Государственные организации](game/gov.md)
   * [Правительство](game/gov/government.md)
   * [Полицейский департамент](game/gov/police.md)
