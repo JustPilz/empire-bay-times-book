@@ -3,7 +3,7 @@
 Перед прочтением советую включить музыку:  
 <iframe width="70" height="32" src="https://www.youtube.com/embed/VCWg_X80H7c?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> Jesse Harlin - Only One Thing We're Good At.  
 
-![NACALO.jpg](https://s2.wampi.ru/2017/12/14/NACALO.jpg)
+![NACALO.jpg](https://raw.githubusercontent.com/JustPilz/empire-bay-times-book/master/img/NACALO.jpg)
 
 Эмпайр-Бэй - город не сбывшихся мечт и разрушенных надежд. Каждый выживает как может, кто-то в погоне за мечтой сходит на криминальную дорожку, кто-то так и остаётся работать на богатенького дядю, который не имеет таких чувств как "жалость" и "сострадание". А что делать, если ты и так презираем обществом? Что делать в этом случае? Да чёрт его знает, как говорил один классик: "Кто не рискует, тот не пьёт...".  
 
