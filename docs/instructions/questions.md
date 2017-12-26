@@ -49,7 +49,7 @@
 > [5\) Распространяемые пакеты Visual C++ для Visual Studio 2013](https://www.microsoft.com/ru-RU/download/details.aspx?id=40784)  
 > [6\) Распространяемый пакет Visual C++ для Visual Studio 2015 ](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145)  
 > [7\) Microsoft .NET Framework 4.6](https://www.microsoft.com/ru-ru/download/details.aspx?id=48130)  
-> [8\) PhysX](http://www.nvidia.ru/object/physx-9.16.0318-driver-ru.html)
+> [8\) PhysX](http://www.nvidia.ru/object/physx-9.16.0318-driver-ru.html). Только для видеокарт NVIDIA GeForce (не для AMD Radeon!).
 
 ---
 
