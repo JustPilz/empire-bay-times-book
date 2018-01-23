@@ -26,6 +26,7 @@
     * [Новые люди](game/roleplay/all/1-new-people.md)
     * [Прибытие в Эмпайр-Бэй](game/roleplay/all/2-arrival-to-empire-bay.md)
     * [Перевозчик Боб](game/roleplay/all/3-transporter-bob.md)
+    * [С чистого листа](game/roleplay/all/4-ide-bernadette-inception.md)
 * [Государственные организации](game/gov.md)
   * [Правительство](game/gov/government.md)
   * [Полицейский департамент](game/gov/police.md)
