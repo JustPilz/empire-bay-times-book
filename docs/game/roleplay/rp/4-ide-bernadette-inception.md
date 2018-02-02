@@ -4,7 +4,7 @@
 
 Перед прочтением советую включить музыку:  
 
-<iframe width="70" height="32" src="https://www.youtube.com/embed/AHP5gds_rto?rel=0&amp;showinfo=0" frameborder="0" gesture="media"  allow="encrypted-media" allowfullscreen></iframe> Mafia II - Emotional Soundtrack.
+<iframe width="70" height="32" src="https://www.youtube.com/embed/AHP5gds_rto?rel=0&amp;showinfo=0" frameborder="0" gesture="media"  allow="encrypted-media" allowfullscreen></iframe> Mafia II - Emotional Soundtrack
 
 ![Дом, милый дом](https://user-images.githubusercontent.com/24465747/35301152-dffbc2b8-009b-11e8-90a4-5c71de6dcb78.jpg)
 

@@ -1,6 +1,6 @@
 # РП-ситуации
 
-- [Новые люди](all/1-new-people.html)
-- [Прибытие в Эмпайр-Бэй](all/2-arrival-to-empire-bay.html)
-- [Перевозчик Боб](all/3-transporter-bob.html)
-- [С чистого листа](all/4-ide-bernadette-inception.html)
+- [Новые люди](rp/1-new-people.html)
+- [Прибытие в Эмпайр-Бэй](rp/2-arrival-to-empire-bay.html)
+- [Перевозчик Боб](rp/3-transporter-bob.html)
+- [С чистого листа](rp/4-ide-bernadette-inception.html)
