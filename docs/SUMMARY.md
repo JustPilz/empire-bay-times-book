@@ -29,6 +29,8 @@
     * [Прибытие в Эмпайр-Бэй](game/roleplay/rp/2-arrival-to-empire-bay.md)
     * [Перевозчик Боб](game/roleplay/rp/3-transporter-bob.md)
     * [С чистого листа](game/roleplay/rp/4-ide-bernadette-inception.md)
+    * [Идэ снова в деле](game/roleplay/rp/5-ide-back-in-action.md)
+    * [Свидание под открытым небом](game/roleplay/rp/6-romantic.md)
 * [Государственные организации](game/gov.md)
   * [Правительство](game/gov/government.md)
   * [Полицейский департамент](game/gov/police.md)
