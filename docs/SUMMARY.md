@@ -24,6 +24,8 @@
   * [Основы РП](game/roleplay/rpbase.md)
   * [Биографии](game/roleplay/biographies.md)
     * [Ash Almond](game/roleplay/bio/ash-almond.md)
+    * [Bumpy Johnson](game/roleplay/bio/bumpy-johnson.md)
+    * [Michael Shakespeare](game/roleplay/bio/michael-shakespeare.md)
   * [РП ситуации](game/roleplay/rpsituations.md)
     * [Новые люди](game/roleplay/rp/1-new-people.md)
     * [Прибытие в Эмпайр-Бэй](game/roleplay/rp/2-arrival-to-empire-bay.md)
