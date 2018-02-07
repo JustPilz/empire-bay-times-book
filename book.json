@@ -12,7 +12,7 @@
         "hide-element",
         "addcssjs",
         "todo",
-        "etoc-plus@git+https://github.com/JustPilz/gitbook-plugin-etoc-plus.git",
+
         "back-to-top-button",
         "collapsible-chapters",
         "sidebar-footer",
