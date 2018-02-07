@@ -25,6 +25,7 @@
   * [Биографии](game/roleplay/biographies.md)
     * [Ash Almond](game/roleplay/bio/ash-almond.md)
     * [Bumpy Johnson](game/roleplay/bio/bumpy-johnson.md)
+    * [Fillipo Inzaghi](game/roleplay/bio/fillipo-inzaghi.md)
     * [Michael Shakespeare](game/roleplay/bio/michael-shakespeare.md)
   * [РП ситуации](game/roleplay/rpsituations.md)
     * [Новые люди](game/roleplay/rp/1-new-people.md)
