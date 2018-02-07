@@ -1,6 +1,6 @@
 ## Правила игрового сервера {#server}
 
-Empire Bay Times - сервер Mafia 2 Online с игровым режимом RolePLay \(РолПлэй\).
+Night City RolePlay - сервер Mafia 2 Online с игровым режимом RolePLay \(РолПлэй\).
 
 #### 1. Игровой процесс
 

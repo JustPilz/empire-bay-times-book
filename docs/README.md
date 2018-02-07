@@ -1,4 +1,4 @@
-# Empire Bay Times
+# Night City RolePlay
 
 #### Довольно молодой сервер Мafia 2 Online.
 
