@@ -22,6 +22,7 @@
 
 * [RolePlay](game/roleplay.md)
   * [Основы РП](game/roleplay/rpbase.md)
+  * [Создание биографии](game/roleplay/biography-create.md)
   * [Биографии](game/roleplay/biographies.md)
     * [Ash Almond](game/roleplay/bio/ash-almond.md)
     * [Bumpy Johnson](game/roleplay/bio/bumpy-johnson.md)
