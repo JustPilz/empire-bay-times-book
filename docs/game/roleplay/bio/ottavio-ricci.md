@@ -1,4 +1,4 @@
-﻿## Ottavio Ricci
+## Ottavio Ricci
 
 ![Фотография Ottavio Ricci](https://user-images.githubusercontent.com/24465747/36115135-42c108d4-1043-11e8-82d2-34b2a5d372c6.jpg)
 
