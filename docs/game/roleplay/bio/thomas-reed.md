@@ -1,6 +1,6 @@
 ## Thomas Reed
 
-![Фотография Thomas Reed](https://user-images.githubusercontent.com/24465747/36397183-99350afa-15d2-11e8-90b8-3c54b39c6601.jpg))
+![Фотография Thomas Reed](https://user-images.githubusercontent.com/24465747/36397183-99350afa-15d2-11e8-90b8-3c54b39c6601.jpg)
 
 **Имя:** Thomas  
 **Фамилия:** Reed  
