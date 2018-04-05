@@ -10,7 +10,7 @@
 - [Mario Rossi](bio/mario-rossi.html)
 - [Michael Shakespeare](bio/michael-shakespeare.html)
 - [Ottavio Ricci](bio/ottavio-ricci.html)
-- [Tan Ju](bio/tun-ju.html)
+- [Tan Ju](bio/tan-ju.html)
 - [Thomas Reed](bio/thomas-reed.html)
 
 Хочешь написать биографию своего игрового персонажа? Жми [сюда](biography-create.html)!
