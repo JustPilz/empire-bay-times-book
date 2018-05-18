@@ -3,6 +3,8 @@
 - [Ash Almond](bio/ash-almond.html)
 - [Bob Williams](bio/bob-williams.html)
 - [Bumpy Johnson](bio/bumpy-johnson.html)
+- [Cody Murphy](bio/cody-murphy.html)
+- [David Pichman](bio/david-pichman.html)
 - [Fillipo Inzaghi](bio/fillipo-inzaghi.html)
 - [Gary Moretti](bio/gary-moretti.html)
 - [Ide Bernadette](bio/ide-bernadette.html)
@@ -12,5 +14,6 @@
 - [Ottavio Ricci](bio/ottavio-ricci.html)
 - [Tan Ju](bio/tan-ju.html)
 - [Thomas Reed](bio/thomas-reed.html)
+- [Vittorio Genovese](bio/vittorio-genovese.html)
 
 Хочешь написать биографию своего игрового персонажа? Жми [сюда](biography-create.html)!
