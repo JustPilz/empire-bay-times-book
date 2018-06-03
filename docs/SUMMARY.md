@@ -32,6 +32,7 @@
     * [Fillipo Inzaghi](game/roleplay/bio/fillipo-inzaghi.md)
     * [Gary Moretti](game/roleplay/bio/gary-moretti.md)
     * [Ide Bernadette](game/roleplay/bio/ide-bernadette.md)
+    * [James Hariford](game/roleplay/bio/james-hariford.md)
     * [Lucia Fuentes](game/roleplay/bio/lucia-fuentes.md)
     * [Mario Rossi](game/roleplay/bio/mario-rossi.md)
     * [Michael Shakespeare](game/roleplay/bio/michael-shakespeare.md)

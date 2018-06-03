@@ -8,6 +8,7 @@
 - [Fillipo Inzaghi](bio/fillipo-inzaghi.html)
 - [Gary Moretti](bio/gary-moretti.html)
 - [Ide Bernadette](bio/ide-bernadette.html)
+- [James Hariford](bio/james-hariford.html)
 - [Lucia Fuentes](bio/lucia-fuentes.html)
 - [Mario Rossi](bio/mario-rossi.html)
 - [Michael Shakespeare](bio/michael-shakespeare.html)
