@@ -37,6 +37,7 @@
     * [Mario Rossi](game/roleplay/bio/mario-rossi.md)
     * [Michael Shakespeare](game/roleplay/bio/michael-shakespeare.md)
     * [Ottavio Ricci](game/roleplay/bio/ottavio-ricci.md)
+    * [Salvatore Martinelli](game/roleplay/bio/salvatore-martinelli.md)
     * [Tan Ju](game/roleplay/bio/tan-ju.md)
     * [Thomas Reed](game/roleplay/bio/thomas-reed.md)
     * [Vittorio Genovese](game/roleplay/bio/vittorio-genovese.md)

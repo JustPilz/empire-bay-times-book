@@ -13,6 +13,7 @@
 - [Mario Rossi](bio/mario-rossi.html)
 - [Michael Shakespeare](bio/michael-shakespeare.html)
 - [Ottavio Ricci](bio/ottavio-ricci.html)
+- [Salvatore Martinelli](bio/salvatore-martinelli.html)
 - [Tan Ju](bio/tan-ju.html)
 - [Thomas Reed](bio/thomas-reed.html)
 - [Vittorio Genovese](bio/vittorio-genovese.html)
