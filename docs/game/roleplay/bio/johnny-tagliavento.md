@@ -1,6 +1,6 @@
 ## Johnny Tagliavento
 
-![Фотография Johnny Tagliavento](https://user-images.githubusercontent.com/36721814/40916430-617d83de-6808-11e8-90ec-96fafd8cf2f2.jpg)
+![Фотография Johnny Tagliavento](https://user-images.githubusercontent.com/36721814/40917854-502cb514-680d-11e8-89ac-bd5a89574cab.jpg)
 
 **Имя:** Johnny  
 **Фамилия:** Tagliavento  
