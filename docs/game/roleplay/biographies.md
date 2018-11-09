@@ -2,6 +2,7 @@
 
 - [Ash Almond](bio/ash-almond.html)
 - [Bob Williams](bio/bob-williams.html)
+- [Bruno Coppola](bio/bruno-coppola.html)
 - [Bumpy Johnson](bio/bumpy-johnson.html)
 - [Cody Murphy](bio/cody-murphy.html)
 - [David Pichman](bio/david-pichman.html)
@@ -15,8 +16,11 @@
 - [Michael Shakespeare](bio/michael-shakespeare.html)
 - [Ottavio Ricci](bio/ottavio-ricci.html)
 - [Salvatore Martinelli](bio/salvatore-martinelli.html)
+- [Severin Dubois](bio/severin-dubois.html)
 - [Tan Ju](bio/tan-ju.html)
 - [Thomas Reed](bio/thomas-reed.html)
+- [Tom Sanrea](bio/tom-sanrea.html)
+- [Vincenzo Navarra](bio/vincenzo-navarra.html)
 - [Vittorio Genovese](bio/vittorio-genovese.html)
 
 Хочешь написать биографию своего игрового персонажа? Жми [сюда](biography-create.html)!
