@@ -1,6 +1,6 @@
 ## Andrew Olionor
 
-![Фотография Andrew Olionor](https://imgur.com/a/bIHVf4z)
+![Фотография Andrew Olionor](https://user-images.githubusercontent.com/24465747/51429027-6b376d00-1c1b-11e9-9c44-b6a0859fd87d.jpg)
 
 **Имя:** Andrew  
 **Фамилия:** Olionor  
