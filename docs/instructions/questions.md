@@ -146,3 +146,21 @@
 **Проблема №13:** Окно мультиплеера свернулось в панель задач и не разворачивается
 
 **Решение:** Выполните шаги из решения проблемы №12
+
+---
+
+**Проблема №14:** Надпись **Connection problem** или что-либо из изображённого на скриншотах ниже:
+
+[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect1.th.png)](https://i3.wampi.ru/2019/01/26/badconnect1.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect2.th.png)](https://i2.wampi.ru/2019/01/26/badconnect2.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect3.th.png)](https://i3.wampi.ru/2019/01/26/badconnect3.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect4.th.png)](https://i2.wampi.ru/2019/01/26/badconnect4.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect5.th.png)](https://i3.wampi.ru/2019/01/26/badconnect5.png)
+
+**Решение:** Скажите спасибо Роскомнадзору!  
+Ваш провайдер частично ограничивает доступ к определённым ip-адресам или урезает пакеты данных.
+
+Для решения этой проблемы вам потребуется использовать VPN.  
+Самым простым, рабочим и бесплатным вариантом является скачивание и установка программы Hotspot Shield:  
+[Ссылка на страницу скачивания Hotspot Shield с официального сайта](https://www.hotspotshield.com/ru/vpn/vpn-for-windows/)  
+[Ссылка на страницу скачивания Hotspot Shield с сервиса доставки ПО Softonic](https://hotspot-shield.ru.softonic.com/)
+
+После запуска программы нужно будет нажать на большую кнопку, чтобы выполнилось соединение с прокси-сервером.  
+Теперь можете пробовать подключиться к серверу в мультиплеере.  
+Бесплатная версия имеет ограничение на 500 мб трафика в сутки. Этого вполне хватает на несколько часов игры.
