@@ -151,7 +151,7 @@
 
 **Проблема №14:** Надпись **Connection problem** или что-либо из изображённого на скриншотах ниже:
 
-[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect1.th.png)](https://i3.wampi.ru/2019/01/26/badconnect1.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect2.th.png)](https://i2.wampi.ru/2019/01/26/badconnect2.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect3.th.png)](https://i3.wampi.ru/2019/01/26/badconnect3.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect4.th.png)](https://i2.wampi.ru/2019/01/26/badconnect4.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect5.th.png)](https://i3.wampi.ru/2019/01/26/badconnect5.png)
+[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect1.th.png)](https://i3.wampi.ru/2019/01/26/badconnect1.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect2.th.png)](https://i2.wampi.ru/2019/01/26/badconnect2.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect3.th.png)](https://i3.wampi.ru/2019/01/26/badconnect3.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect4.th.png)](https://i2.wampi.ru/2019/01/26/badconnect4.png)[![Connection problem](https://i3.wampi.ru/2019/01/26/badconnect5.th.png)](https://i3.wampi.ru/2019/01/26/badconnect5.png)[![Connection problem](https://i2.wampi.ru/2019/01/26/badconnect6.th.png)](https://i2.wampi.ru/2019/01/26/badconnect6.png)
 
 **Решение:** Скажите спасибо Роскомнадзору!  
 Ваш провайдер частично ограничивает доступ к определённым ip-адресам или урезает пакеты данных.
