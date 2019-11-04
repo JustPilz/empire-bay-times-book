@@ -24,7 +24,7 @@
 
 ## Игровой раздел
 
-- [RolePlay](game/roleplay.md)
+- RolePlay
   - [Основы РП](game/roleplay/rpbase.md)
   - [Создание биографии](game/roleplay/biography-create.md)
   - [Биографии](game/roleplay/biographies.md)
