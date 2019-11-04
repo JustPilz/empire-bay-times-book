@@ -3,7 +3,6 @@
 ## Общая информация
 
 - [О проекте](README.md)
-- [Новости](news.md)
 - Инструкции
 
   - [Установка мультиплеера](instructions/install.md)
@@ -13,11 +12,6 @@
   - [Изменение пароля](instructions/change-password.md)
 
 - [Правила](rules.md)
-
-  - [Правила игрового сервера](rules.md#server)
-  - [Правила оформления личных дел](rules.md#bio)
-  - [Правила создания фракции](rules.md#fraction)
-
 - [Руководство по серверу](help/tutorial.md)
 - [Помощь проекту](help.md)
 - [Донат](donate.md)
