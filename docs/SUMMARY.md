@@ -4,7 +4,7 @@
 
 - [О проекте](README.md)
 - [Новости](news.md)
-- Инструкции
+- [Инструкции](instructions.md)
 
   - [Установка мультиплеера](instructions/install.md)
   - [Часто возникающие вопросы](instructions/questions.md)
