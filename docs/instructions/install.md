@@ -11,7 +11,7 @@
 
 
 2\. Скачиваем инсталлятор мультиплеера:  
-[Скачать инсталлятор по прямой ссылке](https://releases.m2ncrp.now.sh/api/fetch/m2ncrp/launcher/win/torrent/latest)  
+[Скачать инсталлятор по прямой ссылке](https://releases.m2ncrp.now.sh/api/fetch/m2ncrp/launcher/win/install/latest)  
 [Скачать инсталлятор с Яндекс.Диска](https://yadi.sk/d/M699klQ1aVmHjg)
 
 
