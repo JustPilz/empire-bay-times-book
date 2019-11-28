@@ -3,7 +3,6 @@
 ## Общая информация
 
 - [О проекте](README.md)
-- [Новости](news.md)
 - [Инструкции](instructions.md)
 
   - [Установка мультиплеера](instructions/install.md)
